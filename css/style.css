@@ -67,7 +67,7 @@ body{
   color: var(--color-secundario);
 }
 .container__dot{
-  background: greenyellow;
+  background: var(--color-secundario);
   grid-column: 9 / span 1;
   grid-row: 17 / 18;
 }
